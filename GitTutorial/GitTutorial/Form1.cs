@@ -19,10 +19,9 @@ namespace GitTutorial
 
         private void button1_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
+
             MessageBox.Show("Hello World!!");
-=======
->>>>>>> criando calculadora
+
         }
 
         private void SOMA_Click(object sender, EventArgs e)
