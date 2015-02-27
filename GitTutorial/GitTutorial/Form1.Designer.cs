@@ -28,10 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+           
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.SOMA = new System.Windows.Forms.Button();
             this.TB_N1 = new System.Windows.Forms.TextBox();
             this.TB_N2 = new System.Windows.Forms.TextBox();
@@ -120,15 +119,7 @@
             this.SUBTRACAO.Text = "SUBTRAÇÂO";
             this.SUBTRACAO.UseVisualStyleBackColor = true;
             this.SUBTRACAO.Click += new System.EventHandler(this.SUBTRACAO_Click);
-            // 
-            this.button1.Location = new System.Drawing.Point(13, 74);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Hello";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // DIVISAO
+          // DIVISAO
             // 
             // Form1
             this.DIVISAO.Location = new System.Drawing.Point(219, 83);
@@ -156,13 +147,11 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
@@ -187,13 +176,9 @@
         }
 
         #endregion
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button btInicial;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox valorA;
-        private System.Windows.Forms.TextBox valorB;
         private System.Windows.Forms.Button SOMA;
         private System.Windows.Forms.TextBox TB_N1;
         private System.Windows.Forms.TextBox TB_N2;
