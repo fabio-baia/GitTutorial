@@ -1,9 +1,18 @@
 programando feature do fabio
 mais alteracoes
-lorem ipsum
 
 <ul>
    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
    <li>Aliquam tincidunt mauris eu risus.</li>
-   <li>Vestibulum auctor dapibus neque.</li>
+   <li>Vestibulum teste</li>
+   <li>Teste 123</li>
+</ul>
+
+<ul>
+   <li>Africa</li>
+   <li>America</li>
+   <li>Asia</li>
+   <li>Europa</li>
+   <li>Oceania</li>
+   <li>Antartida</li>
 </ul>
