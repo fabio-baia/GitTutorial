@@ -9,9 +9,11 @@ mais alteracoes
 </ul>
 
 <ul>
+   <li>Africa</li>
    <li>America</li>
    <li>Asia</li>
    <li>Europa</li>
    <li>Oceania</li>
    <li>Africa</li>
+   <li>Antartida</li>
 </ul>
