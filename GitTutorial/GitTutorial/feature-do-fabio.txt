@@ -14,6 +14,5 @@ mais alteracoes
    <li>Asia</li>
    <li>Europa</li>
    <li>Oceania</li>
-   <li>Africa</li>
    <li>Antartida</li>
 </ul>
