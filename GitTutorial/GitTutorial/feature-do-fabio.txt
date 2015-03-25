@@ -11,4 +11,7 @@ mais alteracoes
 <ul>
    <li>America</li>
    <li>Asia</li>
+   <li>Europa</li>
+   <li>Oceania</li>
+   <li>Africa</li>
 </ul>
