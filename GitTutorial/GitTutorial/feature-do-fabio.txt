@@ -1,13 +1,9 @@
-programando feature do fabio
-mais alteracoes
-
 <ul>
    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
    <li>Aliquam tincidunt mauris eu risus.</li>
    <li>Vestibulum teste</li>
    <li>Teste 123</li>
 </ul>
-
 <ul>
    <li>Africa</li>
    <li>America</li>
@@ -18,9 +14,6 @@ mais alteracoes
 </ul>
 
 lorem ipsum
-lorem dolor
-sit consectur
 
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-<p>Pellentesque habitant morbi alesuada fames ac turpis egestas.</p>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p><p>Pellentesque habitant morbi alesuada fames ac turpis egestas.</p>
 <p>tristique senectus et netus et malesuada fames ac turpis egestas.</p>
