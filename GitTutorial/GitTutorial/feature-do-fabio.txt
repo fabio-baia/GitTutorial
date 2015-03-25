@@ -1,7 +1,6 @@
 <ul>
    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
    <li>Aliquam tincidunt mauris eu risus.</li>
-   <li>Teste 123</li>
 </ul>
 <ul>
    <li>Africa</li>
@@ -17,7 +16,8 @@
    <li>Vestibulum auctor dapibus neque.</li>
 </ol>
 
-<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p><p>Pellentesque habitant morbi alesuada fames ac turpis egestas.</p>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+<p>Pellentesque habitant morbi alesuada fames ac turpis egestas.</p>
 <p>tristique senectus et netus et malesuada fames ac turpis egestas.</p>
 <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
 
